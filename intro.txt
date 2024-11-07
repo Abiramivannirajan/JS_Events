@@ -1,7 +1,6 @@
-                                               JavaScript Events  
+                                               Events  
 
-    JavaScript Events are actions that happen in the browser. They can be triggered by various user
-interactions.Common events include mouse clicks, keyboard presses and form submissions.Event handlers are JavaScript functions that respond to these events, allowing developers to create interactive 
+    JavaScript Events are actions that happen in the browser.Common events include mouse clicks, keyboard presses and form submissions.Event handlers are JavaScript functions that respond to these events, allowing developers to create interactive 
 web applications.
 
  Events:
@@ -11,3 +10,4 @@ onmouseover	The user moves the mouse over an HTML element
 onkeydown	The user pushes a keyboard key
 onload	    The browser has finished loading the page
 onsubmit     when a form is submitted
+oncontextmenu The user right-clicks on an element ===

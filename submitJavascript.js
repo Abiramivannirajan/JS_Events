@@ -8,3 +8,4 @@ document.getElementById('registrationForm').addEventListener('submit', function(
             // Display the submitted information
             alert(`Registered Successfully!\nName: ${name}\nEmail: ${email}\nAge: ${age}`);
         });
+        
